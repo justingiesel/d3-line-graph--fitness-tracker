@@ -18,3 +18,11 @@
   form span{
     color: #00bfa5 !important;
   }
+  .x-axis path, .y-axis path,
+  .x-axis line, .y-axis line{
+      stroke: #ccc;
+  }
+  .x-axis text, .y-axis text {
+      color: #ccc;
+      font-size: 1em;
+  } 
